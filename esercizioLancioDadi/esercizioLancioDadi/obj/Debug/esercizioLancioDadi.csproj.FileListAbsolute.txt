@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\bin\Debug\esercizioLancioDadi.exe.config
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\bin\Debug\esercizioLancioDadi.exe
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\bin\Debug\esercizioLancioDadi.pdb
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\MainWindow.g.cs
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\App.g.cs
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi_MarkupCompile.cache
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi_MarkupCompile.lref
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\MainWindow.baml
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi.g.resources
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi.Properties.Resources.resources
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi.csproj.GenerateResource.cache
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi.exe
+C:\Users\simon\Desktop\EsercizioDadi\esercizioLancioDadi\esercizioLancioDadi\obj\Debug\esercizioLancioDadi.pdb
