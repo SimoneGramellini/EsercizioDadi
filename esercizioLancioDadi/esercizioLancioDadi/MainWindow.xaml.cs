@@ -26,6 +26,7 @@ namespace esercizioLancioDadi
         public MainWindow()
         {
             InitializeComponent();
+
             random = new Random();
             int sorteggiato = 0;
             Sorteggio(sorteggiato);
@@ -38,7 +39,7 @@ namespace esercizioLancioDadi
                 while (true)
                 {
                     sorteggiato = random.Next(1, 6);
-                    Thread.Sleep(250);
+                    Thread.Sleep(350);
                     this.Dispatcher.BeginInvoke(new Action(() =>
                     {
                         lblDado.Content = sorteggiato;
@@ -88,7 +89,7 @@ namespace esercizioLancioDadi
             lstCronologiaValoriEstratti.Items.Add(lblValoreEstratto.Content);
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void btnCancellaValori_Click(object sender, RoutedEventArgs e)
         {
             lstCronologiaValoriEstratti.Items.Clear();
             lblValoreEstratto.Content = "";

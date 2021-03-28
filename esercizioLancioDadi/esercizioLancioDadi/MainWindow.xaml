@@ -11,7 +11,7 @@
         <Button x:Name="btnPrendiValore" Content="Prendi valore" HorizontalAlignment="Left" Margin="298,105,0,0" VerticalAlignment="Top" Width="156" Height="57" FontSize="18" Click="btnPrendiValore_Click"/>
         <Label x:Name="lblValoreEstratto" Content="" HorizontalAlignment="Left" Margin="399,203,0,0" VerticalAlignment="Top" Height="119" Width="49" Foreground="Black" Background="#FFCACFFF" FontSize="72"/>
         <ListBox x:Name="lstCronologiaValoriEstratti" HorizontalAlignment="Left" Height="119" Margin="298,203,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="Cancella valori" HorizontalAlignment="Left" Margin="298,347,0,0" VerticalAlignment="Top" Width="156" Height="53" Click="Button_Click" Background="#FFFF8E8E" FontSize="22"/>
+        <Button x:Name="btnCancellaValori" Content="Cancella valori" HorizontalAlignment="Left" Margin="298,347,0,0" VerticalAlignment="Top" Width="156" Height="53" Background="#FFFF8E8E" FontSize="22" Click="btnCancellaValori_Click"/>
         <TextBlock x:Name="estrazioneDado" HorizontalAlignment="Left" Margin="298,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="170" TextAlignment="Center"><Run Text="Estrazione Dad"/><Run Text="o:"/><LineBreak/><Run/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="296,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="75" TextAlignment="Center" Text="Cronologia"/>
         <TextBlock HorizontalAlignment="Left" Margin="385,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="76" TextAlignment="Center"><Run Text="Ultimo valore"/><LineBreak/><Run/></TextBlock>
